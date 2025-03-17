@@ -3,7 +3,7 @@ package stepdefinitions.form;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.*;
 import net.serenitybdd.screenplay.Actor;
-import net.serenitybdd.screenplay.actions.Open;;
+import net.serenitybdd.screenplay.actions.Open;
 import task.form.FormFunctionalityTask;
 import utils.login.MaximizeWindowUtils;
 
