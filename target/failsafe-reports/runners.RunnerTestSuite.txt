@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: runners.RunnerTestSuite
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.534 s -- in runners.RunnerTestSuite

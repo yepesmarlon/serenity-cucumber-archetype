@@ -1,0 +1,5 @@
+# Ignorar la carpeta .idea (configuración del IDE)
+.idea/
+
+# Ignorar la carpeta target (archivos generados por Maven)
+target/
