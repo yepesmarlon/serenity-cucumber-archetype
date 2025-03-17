@@ -1,13 +1,13 @@
 package stepdefinitions;
 
+import actors.CustomOnlineCast;
 import io.cucumber.java.Before;
 import net.serenitybdd.screenplay.actors.OnStage;
-import net.serenitybdd.screenplay.actors.OnlineCast;
 
 public class Hooks {
-
     @Before
     public void setTheStage() {
-        OnStage.setTheStage(new OnlineCast());
+        // Inicializa el escenario
+        OnStage.setTheStage(new CustomOnlineCast());
     }
 }
